@@ -12,10 +12,4 @@
     text-align: center;
   }
 
-  .Disable {
-    background-color: rgb(94, 91, 91);
-    color: white;
-  }
-  .Disable:active {
-    transform: none !important;
-  }
+ 
